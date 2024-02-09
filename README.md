@@ -5,4 +5,4 @@ Files from statistical data analysis classes.
 Technologies used in the projects:
 - Excel
 - Statistica
-- Jupyter Notebook
+- Jupyter Notebook with Python
